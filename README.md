@@ -1,8 +1,11 @@
-<!-- Profile Header Animation -->
-<h1 align="center">Hi 👋, I'm Khushi Yadav</h1>
-<h3 align="center">✨ A passionate Full-Stack Web Developer from India ✨</h3>
+<!-- Profile Header with gradient animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey!+I’m+Khushi+Yadav;Full-Stack+Web+Developer;Design+To+Deploy!&center=true&width=500&height=50&color=F97316&pause=1000&vCenter=true&size=22" alt="Typing SVG" />
+</h1>
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
+<p align="center">
+  <img src="https://github.com/Khushi-Yaduwanshi/Khushi-Yaduwanshi/blob/main/assets/wave.gif" width="80px">
+</p>
 
 ---
 
@@ -15,9 +18,24 @@
 
 ---
 
-## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-yadav-84ba49319/)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ky5810830@gmail.com)
+## 🌐 Connect with Me:
+<p align="center">
+  <a href="https://www.linkedin.com/in/khushi-yadav-84ba49319/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ky5810830@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Khushi-Yaduwanshi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://wa.me/yourwhatsappnumber">
+    <img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-%23FF6F61.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -48,32 +66,35 @@
 ---
 
 ## 📊 GitHub Stats:
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khushi-Yaduwanshi&theme=radical&show_icons=true&hide_border=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khushi-Yaduwanshi&theme=radical&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Khushi-Yaduwanshi&theme=dracula&show_icons=true&hide_border=true&icon_color=f97316&title_color=facc15" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khushi-Yaduwanshi&theme=dracula&hide_border=true&ring=fb923c&fire=facc15" width="47%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi-Yaduwanshi&layout=compact&theme=radical&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi-Yaduwanshi&layout=compact&theme=dracula&hide_border=true&langs_count=8" width="50%" />
 </div>
 
 ---
 
 ## 🔥 Contribution Graph:
-[![Khushi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Khushi-Yaduwanshi&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Khushi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Khushi-Yaduwanshi&theme=react-dark&hide_border=true&area=true&color=fb923c&line=22d3ee&point=facc15)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ## 🧭 Visitor Count:
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Khushi-Yaduwanshi&icon=4&color=6" />
+  <img src="https://komarev.com/ghpvc/?username=Khushi-Yaduwanshi&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="visit-count" />
 </p>
 
 ---
 
 <p align="center">
-  <i>“Creating intuitive web experiences, one pixel at a time.”</i><br>
-  <b>✨ Let's build something awesome together! ✨</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <br />
+  <i>✨ Designing smooth experiences, one line of code at a time ✨</i><br>
+  <strong>🚀 Let's build something amazing together!</strong>
 </p>
 
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
+<!-- Proudly crafted by Khushi Yadav using ❤️ + Markdown + SVG magic -->
