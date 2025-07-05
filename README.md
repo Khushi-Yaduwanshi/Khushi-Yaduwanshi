@@ -78,11 +78,5 @@
   <strong>🚀 Let's build something amazing together!</strong>
 </p>
 
-<!-- Proudly crafted by Khushi Yadav using ❤️ + Markdown + SVG magic -->
-
-<p align="center">
-  <i>“Creating intuitive web experiences, one pixel at a time.”</i><br>
-  <b>✨ Let's build something awesome together! ✨</b>
-</p>
 
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
